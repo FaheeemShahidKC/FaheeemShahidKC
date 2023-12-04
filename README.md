@@ -3,7 +3,7 @@
 </div>
 
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -33,11 +33,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FaheeemShahidKC%20&theme=cobalt&border_radius=5" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaheeemShahidKC&layout=compact&theme=vision-friendly-dark&height=550px)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
+### Blog Posts :
 Hi, i am Faheem Shahid KC.
 i am a self thought mern stack developer working on a bootcamp for 12-14 hours daily. 
